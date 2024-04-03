@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v4.3.1
+
+[compare changes](https://github.com/FranckFreiburger/vue-pdf/compare/v4.3.0...v4.3.1)
+
+### 🩹 Fixes
+
+- PdfRender.cancel() ([749b862](https://github.com/FranckFreiburger/vue-pdf/commit/749b862))
+
+### ❤️ Contributors
+
+- Donald Shtjefni ([@dnldsht](http://github.com/dnldsht))
+
 ## v4.3.0
 
 
