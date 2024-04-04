@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v4.3.2
+
+[compare changes](https://github.com/FranckFreiburger/vue-pdf/compare/v4.3.1...v4.3.2)
+
+### 🩹 Fixes
+
+- Pdf cancel ([0b6bbe5](https://github.com/FranckFreiburger/vue-pdf/commit/0b6bbe5))
+
+### 🏡 Chore
+
+- Release script ([a4266e8](https://github.com/FranckFreiburger/vue-pdf/commit/a4266e8))
+
+### ❤️ Contributors
+
+- Donald Shtjefni ([@dnldsht](http://github.com/dnldsht))
+
 ## v4.3.1
 
 [compare changes](https://github.com/FranckFreiburger/vue-pdf/compare/v4.3.0...v4.3.1)
