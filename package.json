@@ -3,7 +3,9 @@
   "version": "4.3.1",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
-  "scripts": {},
+  "scripts": {
+    "release": "npx changelogen@latest --release --push"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
